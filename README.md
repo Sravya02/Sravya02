@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sravya
 - 👀 I’m interested in Robotics and Cybersecurity 
-- 🌱 I’m currently pursuing in final year of B.Tech.
+- 🌱 I have completed B.Tech in 2023.
 
 <!---
 Sravya02/Sravya02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
